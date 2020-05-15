@@ -1,0 +1,6 @@
+este es el archivo de texto
+
+que se va a llamar historia.txt 
+
+y es para el curso de git y github
+
