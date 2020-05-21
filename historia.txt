@@ -1,4 +1,4 @@
-este es el archivo de texto
+este es el archivo de texto plano
 
 que se va a llamar historia.txt 
 
