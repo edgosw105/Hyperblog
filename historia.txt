@@ -4,6 +4,8 @@ que se va a llamar historia.txt
 
 y es para el curso de git y github de platzi
 
+oswaldo es una persona que contribuye a este proyecto opensource
+
 Mañana nos enfocaremos en su vida laborar
 
 agrego estas lineas de nuevo desde remoto
